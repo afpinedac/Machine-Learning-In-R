@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546733543220.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "17D9488D",
+    "lastKnownWriteTime" : 1546733559,
+    "last_content_update" : 1546733559727,
+    "path" : "C:/xampp2/htdocs/LearningAnalyticsCodes/AssociationRules.R",
+    "project_path" : "AssociationRules.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

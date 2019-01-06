@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546733521160.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "421290F6",
+    "lastKnownWriteTime" : 1546733533,
+    "last_content_update" : 1546733533614,
+    "path" : "C:/xampp2/htdocs/LearningAnalyticsCodes/Clustering.R",
+    "project_path" : "Clustering.R",
+    "properties" : {
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
